@@ -1,0 +1,65 @@
+.banner-cate{
+    width: 100%;
+    padding-top: 80px;
+}
+
+.banner-cate-img{
+    width: 100%;
+}
+
+.title-page-cate{
+    margin: 40px;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.slider-category {
+    position: relative;
+    display: flex;
+    align-items: center;
+    margin: 0px 40px;
+    overflow: hidden;
+}
+
+.image-category{
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+    
+}
+
+.categoryImg{
+    width: 100%;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.card-category-detail{
+    text-align: center;
+    
+}
+
+.category-name{
+    text-decoration: none;
+    cursor: pointer;
+    color: #333f48;
+    font-weight: 400;
+}
+
+.grid-product{
+    margin: 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.product-new{
+    margin-bottom: 40px;
+}
+
+.page{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+    margin-top: 24px;
+}

@@ -1,0 +1,35 @@
+.Card{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin: 10px 5px;
+    padding: 14px 10px;
+    border-radius: 10px;
+    position: relative;
+  
+}
+
+.icon{
+    font-size: 18px;
+    position: absolute;
+    right: 0px;
+    top: 20px;
+    color: white;
+}
+
+.title{
+    font-weight: 600;
+    width: 35%;
+    color: white;
+}
+.detail{
+    max-width:60%;
+    overflow: hidden;
+}
+
+.money{
+    margin-top: 50px;
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}

@@ -1,0 +1,18 @@
+.main-dash{
+    margin: 32px 40px;
+    overflow: hidden;
+}
+
+.titlePageHome{
+    margin-bottom: 32px;
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.listOrder{
+    margin: 32px 0px;
+    font-weight: 600;
+    font-size: 20px;
+}
+
+

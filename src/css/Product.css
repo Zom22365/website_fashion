@@ -1,0 +1,86 @@
+.container{
+    padding-top: 100px;
+    max-width: 900px !important;
+}
+
+.content{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.content-left{
+    padding: 0px 40px;
+}
+
+.content-right{
+    padding: 0px 40px;
+}
+
+.content-right{
+    margin-top: 40px;
+}
+
+.name-product{
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 36px;
+    margin-bottom: 8px;
+}
+
+.price-product{
+    color: #333f48;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 36px;
+    padding-bottom: 32px;
+    border-bottom: 1px solid #e8e8ea;
+    margin-bottom: 32px;
+}
+
+.quantity{
+    display: block;
+    padding-left: 5px;
+    width: 180px;
+    margin: 5px 0px 24px 0px;
+}
+
+.lable{
+    color: #333f48;
+    font-weight: 500;
+}
+
+.quantity-product{
+    color: #333f48;
+    font-weight: 500;
+}
+
+.quantity-product{
+    padding-bottom: 32px;
+    border-bottom: 1px solid #e8e8ea;
+    margin-bottom: 32px;
+}
+
+.img-product{
+    width: 100%;
+}
+
+.add-to-card{
+    text-align: center;
+}
+
+.btn-add-to-card{
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    padding: 10px;
+    margin-bottom: 16px;
+    text-transform: uppercase;
+    display: block;
+    width: 100%;
+    border: 1px solid #656565;
+    background-color: #333f48;
+    border-color: #333f48;
+    color: #fff;
+    cursor: pointer;
+}
